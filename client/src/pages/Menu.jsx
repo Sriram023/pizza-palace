@@ -165,9 +165,6 @@ export default function Menu() {
             whileHover={{
              scale: 1.01,
            }}
-             transition={{
-            duration: 0.2,
-            }}
             transition={{ duration: 0.2 }}
             value={search}
             onChange={(e) => setSearch(e.target.value)}
