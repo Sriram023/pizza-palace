@@ -28,7 +28,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-4 text-center text-xs text-cream/50">
-        © {new Date().getFullYear()} Pizza Palace — Student project.
+        © {new Date().getFullYear()} Pizza Palace
       </div>
     </footer>
   );
